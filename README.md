@@ -113,6 +113,3 @@ This repo is under the **MIT License** – free to use & modify.
 
 ✨ If you find this repo helpful, don’t forget to **star ⭐ the repository** and follow for updates on **Agentic AI projects**!
 
----
-
-👉 Do you also want me to add **sample output screenshots / diagrams** (like workflow graphs and chatbot runs) in the README for extra attractiveness?
