@@ -1,6 +1,6 @@
 # 🚀 Agentic AI – LangChain & LangGraph Workflows
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-%F0%9F%A4%96-success)
 ![LangGraph](https://img.shields.io/badge/LangGraph-%E2%9C%A8-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -31,8 +31,7 @@ LangGraph/
 │    ├── 1_llm_workflow.ipynb
 │    ├── 2_prompt_chaining.ipynb
 
-.env                        # Environment variables (API keys etc.)
-.gitignore
+
 README.md
 ```
 
