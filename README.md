@@ -72,6 +72,16 @@ Create a `.env` file in the root:
 ```
 OPENAI_API_KEY=your_api_key_here
 SERPAPI_API_KEY=your_serp_api_key_here
+GOOGLE_API_KEY = your_serp_api_key_here
+OPENWEATHER_API_KEY = your_serp_api_key_here
+LANGCHAIN_API_KEY= your_serp_api_key_here
+TAVILY_API_KEY = your_serp_api_key_here
+LANGCHAIN_TRACING_V2= your_serp_api_key_here
+LANGCHAIN_PROJECT= Project_Name
+LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+LANGCHAIN_API_KEY= your_serp_api_key_here
+GROQ_API_KEY = your_serp_api_key_here
+
 ```
 
 ---
@@ -106,7 +116,7 @@ Contributions are welcome! 🚀
 
 ## 📜 License
 
-This repo is under the **MIT License** – free to use & modify.
+ **MIT License** – free to use & modify.
 
 ---
 
