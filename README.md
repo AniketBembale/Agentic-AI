@@ -52,7 +52,7 @@ README.md
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/Agentic-AI.git
+git clone https://github.com/AniketBembale/Agentic-AI.git
 cd Agentic-AI
 ```
 
